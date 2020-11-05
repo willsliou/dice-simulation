@@ -48,3 +48,7 @@ int Die::getValue() {
     return value;
 }
 
+int Die::oneRoll() {
+    roll();
+    getValue();
+}

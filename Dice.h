@@ -16,6 +16,8 @@ class Die {
         int getSides();
         // Returns the die value
         int getValue();
+        // Simulates one roll
+        int oneRoll();
 };
 
 #endif
