@@ -26,5 +26,22 @@ int main() {
         std::cout << die1.getValue() << " " << die2.getValue() << std::endl;
     }
 
+    // int x = 10, y = 3;
+    // x =+ 3;
+    // std::cout << x;
 
+    // int32_t nums[3] = {2,4,3};
+    // std::cout << (nums[0] << nums[1]<<nums[2] ); // not 243
+    
+    // int i = 0;
+    // printf("%d", i++);
+    // printf("%d", i--);
+    // printf("%d", ++i);
+    // printf("%d", --i);
+
+    // int x = 10, y = 20;
+    // std::cout << "x= " << x++ << "y= " << --y << std::endl;
+    // std::cout << "x= " << x-- << "y= " << ++y << std::endl;
+
+    // std::cout << ~true;
 }
